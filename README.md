@@ -7,11 +7,7 @@
 <!---
 Here's an optimized version of the original content:
 
-- Hello, I'm Zhangxs19.
-- I am interested in various topics.
-- Currently, I am learning new things to expand my knowledge.
-- I am open to collaborating on projects that align with my interests.
-- You can reach me through the contact information provided below.
+Hi, my name is Zhangxs19 and I am interested in a wide range of topics. I am constantly seeking to expand my knowledge and skills by learning new things. I am open to collaborating on projects that align with my interests and I can be reached through the contact information provided below. Feel free to check out my GitHub profile for more information.
 
 Feel free to check out my GitHub profile for more information.
 --->
